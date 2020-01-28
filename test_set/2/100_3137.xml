@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+  <filename>100_3137.JPG</filename>
+  <size>
+    <width>2592</width>
+    <height>1944</height>
+  </size>
+  <object>
+    <name>ship</name>
+    <bndbox>
+      <xmin>1352</xmin>
+      <ymin>768</ymin>
+      <xmax>1632</xmax>
+      <ymax>862</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ship</name>
+    <bndbox>
+      <xmin>1146</xmin>
+      <ymin>713</ymin>
+      <xmax>1429</xmax>
+      <ymax>826</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>ship</name>
+    <bndbox>
+      <xmin>336</xmin>
+      <ymin>729</ymin>
+      <xmax>542</xmax>
+      <ymax>841</ymax>
+    </bndbox>
+  </object>
+</annotation>

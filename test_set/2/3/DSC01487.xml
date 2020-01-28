@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+  <filename>DSC01487.jpg</filename>
+  <size>
+    <width>4000</width>
+    <height>3000</height>
+  </size>
+  <object>
+    <name>tank</name>
+    <bndbox>
+      <xmin>1137</xmin>
+      <ymin>1443</ymin>
+      <xmax>2956</xmax>
+      <ymax>2268</ymax>
+    </bndbox>
+  </object>
+</annotation>

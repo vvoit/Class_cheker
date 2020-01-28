@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+  <filename>100_3116.jpg</filename>
+  <size>
+    <width>2561</width>
+    <height>1897</height>
+  </size>
+  <object>
+    <name>ship</name>
+    <bndbox>
+      <xmin>964</xmin>
+      <ymin>1025</ymin>
+      <xmax>1580</xmax>
+      <ymax>1304</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>human</name>
+    <bndbox>
+      <xmin>2332</xmin>
+      <ymin>1105</ymin>
+      <xmax>2384</xmax>
+      <ymax>1191</ymax>
+    </bndbox>
+  </object>
+</annotation>

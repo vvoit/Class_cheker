@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+  <filename>DSC01448.jpg</filename>
+  <size>
+    <width>4000</width>
+    <height>3000</height>
+  </size>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>1143</xmin>
+      <ymin>1879</ymin>
+      <xmax>2775</xmax>
+      <ymax>2639</ymax>
+    </bndbox>
+  </object>
+</annotation>

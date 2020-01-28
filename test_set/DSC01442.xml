@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+  <filename>DSC01442.jpg</filename>
+  <size>
+    <width>4000</width>
+    <height>3000</height>
+  </size>
+  <object>
+    <name>helicopter</name>
+    <bndbox>
+      <xmin>1681</xmin>
+      <ymin>2071</ymin>
+      <xmax>2118</xmax>
+      <ymax>2395</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>helicopter</name>
+    <bndbox>
+      <xmin>2625</xmin>
+      <ymin>2212</ymin>
+      <xmax>3062</xmax>
+      <ymax>2512</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+  <filename>DSC01461.jpg</filename>
+  <size>
+    <width>4000</width>
+    <height>3000</height>
+  </size>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>925</xmin>
+      <ymin>1664</ymin>
+      <xmax>2212</xmax>
+      <ymax>2535</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>2218</xmin>
+      <ymin>1785</ymin>
+      <xmax>2837</xmax>
+      <ymax>2160</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>human</name>
+    <bndbox>
+      <xmin>737</xmin>
+      <ymin>1551</ymin>
+      <xmax>831</xmax>
+      <ymax>1692</ymax>
+    </bndbox>
+  </object>
+</annotation>
